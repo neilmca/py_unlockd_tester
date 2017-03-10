@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+auth_keys.txt
 
 # C extensions
 *.so
